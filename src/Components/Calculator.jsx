@@ -1,6 +1,5 @@
 import React from "react";
-import 'C:/tasks/react/second_mission/src/styles/style.css';
-import {operations, calculations, validation} from 'C:/tasks/react/second_mission/src/scripts/main.js'
+import {operations, calculations, validation} from '../scripts/main.js'
 
 const Calculator = () => {
 
